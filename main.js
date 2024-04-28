@@ -285,6 +285,7 @@ else if(allsquare[1] != "" && allsquare[2] != "" && allsquare[3] != "" && allsqu
     document.body.style.backgroundColor = "white";
     setInterval(function(){
         document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").style.marginLeft="20px";
     },1000);
     setTimeout(function(){
         location.reload();
