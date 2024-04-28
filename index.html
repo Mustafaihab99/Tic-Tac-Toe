@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="master.css">
+    <title>Document</title>
+</head>
+<body>
+<div class="box">
+    
+    <div class="left">
+        <img src="bear1.png" class="bear1">
+        <div class="text1">Player One  <span id="pone"></span>
+        </div>
+    </div>
+
+    <div class="cont">
+        <div class="title"><p id="title">Tic Tac Toe Game &#128522;</p></div>
+        <div class="game">
+        <div class="square" id="place1" onclick="game(this.id)"></div>
+        <div class="square" id="place2" onclick="game(this.id)"></div>
+        <div class="square" id="place3" onclick="game(this.id)"></div>
+
+        <div class="square" id="place4" onclick="game(this.id)"></div>
+        <div class="square" id="place5" onclick="game(this.id)"></div>
+        <div class="square" id="place6" onclick="game(this.id)"></div>
+
+        <div class="square" id="place7" onclick="game(this.id)"></div>
+        <div class="square" id="place8" onclick="game(this.id)"></div>
+        <div class="square" id="place9" onclick="game(this.id)"></div>
+    </div>
+    </div>
+
+    <div class="right">
+        <img src="bear2.png" class="bear2">
+        <div class="text2" id="text2">Player Two  <span id="ptwo"></span>
+        </div>
+    </div>
+</div>
+<div class="floor">
+    <button class="but1" id="start">Start</button>
+    <button class="but2" onclick="location.reload()">Restart</button>
+</div>
+    <script src="main.js"></script>
+</body>
+</html> 
