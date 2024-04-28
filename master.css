@@ -35,7 +35,8 @@ body{
 .cont{
     width: 1500px;
     height: auto;
-    margin-top: 80px;
+    margin-top: 140px;
+    margin-left: 170px;
 }
 .title{
     margin-left: 100px;
@@ -70,7 +71,7 @@ body{
     cursor: pointer;
 }
 .floor{
-    margin-left: 450px;
+    margin-left: 610px;
     margin-top: 30px;
 }
 .but1{
