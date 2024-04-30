@@ -53,7 +53,7 @@ function winner(){
         document.getElementById("text2").style.color = "white";
         document.body.style.backgroundImage = "url(wins.gif)";
         setInterval(function(){
-            document.getElementById("title").innerHTML = "Next Game after 5 second";
+            document.getElementById("title").innerHTML = "Congratulation";
         },1000);
         setTimeout(function(){
             location.reload();
@@ -66,7 +66,7 @@ function winner(){
         document.getElementById("text2").style.color = "white";
         document.body.style.backgroundImage = "url(wins.gif)";
         setInterval(function(){
-            document.getElementById("title").innerHTML = "Next Game after 5 second";
+            document.getElementById("title").innerHTML = "Congratulation";
         },1000);
         setTimeout(function(){
             location.reload();
@@ -82,7 +82,7 @@ else if(allsquare[4] === allsquare[5] && allsquare[5] === allsquare[6] && allsqu
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -95,7 +95,7 @@ else if(allsquare[4] == "O"){
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -111,7 +111,7 @@ else if(allsquare[7] === allsquare[8] && allsquare[8] === allsquare[9] && allsqu
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -124,7 +124,7 @@ else if(allsquare[7] == "O"){
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)"; 
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -140,7 +140,7 @@ else if(allsquare[1] === allsquare[5] && allsquare[5] === allsquare[9] && allsqu
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -153,7 +153,7 @@ else if(allsquare[1] == "O"){
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -169,7 +169,7 @@ else if(allsquare[3] === allsquare[5] && allsquare[5] === allsquare[7] && allsqu
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -182,7 +182,7 @@ else if(allsquare[3] == "O"){
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -198,7 +198,7 @@ else if(allsquare[1] === allsquare[4] && allsquare[4] === allsquare[7] && allsqu
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -211,7 +211,7 @@ else if(allsquare[1] == "O"){
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -227,7 +227,7 @@ else if(allsquare[2] === allsquare[5] && allsquare[5] === allsquare[8] && allsqu
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -240,7 +240,7 @@ else if(allsquare[2] == "O"){
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -256,7 +256,7 @@ else if(allsquare[3] === allsquare[6] && allsquare[6] === allsquare[9] && allsqu
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -269,7 +269,7 @@ else if(allsquare[3] == "O"){
     document.getElementById("text2").style.color = "white";
     document.body.style.backgroundImage = "url(wins.gif)";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Congratulation";
     },1000);
     setTimeout(function(){
         location.reload();
@@ -284,7 +284,7 @@ else if(allsquare[1] != "" && allsquare[2] != "" && allsquare[3] != "" && allsqu
     document.getElementById("title").style.color = "red";
     document.body.style.backgroundColor = "white";
     setInterval(function(){
-        document.getElementById("title").innerHTML = "Next Game after 5 second";
+        document.getElementById("title").innerHTML = "Play Again";
         document.getElementById("title").style.marginLeft="20px";
     },1000);
     setTimeout(function(){
