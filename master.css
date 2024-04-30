@@ -165,12 +165,12 @@ body{
         margin-left: -64px;
     }
     .title{
-        font-size: 25px;
-        margin-left: 0;
+        font-size: 12px;
+        margin-left: 70px;
         width: 300px;
     }
     #title{
-        margin-left: 100px;
+        margin-left: 50px;
     }
     .game{
         width: 223px;
